@@ -1,0 +1,13 @@
+{
+  "name": "unit-shift",
+  "version": "1.0.0",
+  "description": "A tiny CLI for converting between common units (temperature, distance, weight).",
+  "main": "src/convert.js",
+  "bin": {
+    "unit-shift": "src/convert.js"
+  },
+  "scripts": {
+    "start": "node src/convert.js"
+  },
+  "license": "MIT"
+}
